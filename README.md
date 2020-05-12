@@ -17,7 +17,7 @@ Collecting data for over 4 million apps requires a significant amount of time an
 
 > Number of apps available in leading app stores as of 3rd quarter 2019  ([Link](https://www.statista.com/statistics/276623/number-of-apps-available-in-leading-app-stores/))
 
-![image](https://drive.google.com/file/d/179yrFn05aOnduxekMy7UbH33whPDdRxp/view?usp=sharing)
+![Stat](https://github.com/sandramalaquias/Profitable-APP-Store/blob/master/index.png)
 
 To avoid spending resources on collecting new data ourselves, I should first try to see if I can find any relevant existing data at no cost. Luckily, these are two data sets that seem suitable for my goals (both find in Kaggle):
 
