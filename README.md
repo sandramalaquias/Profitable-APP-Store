@@ -22,3 +22,13 @@ To avoid spending resources on collecting new data ourselves, I should first try
 * A **data set** containing data about approximately 10,000 Android apps from Google Play; the data was collected in August 2018. You can download the data set directly from this [link](https://www.kaggle.com/lava18/google-play-store-apps).
 * A **data set** containing data about approximately 7,000 iOS apps from the App Store; the data was collected in July 2017. You can download the data set directly from this [link](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps).
 
+Note that for this exercise I'm using only a Python command.
+
+The main challenge for this exercise is to work with a "Codecs" and "RE" libraries to identify Asia characteres and drop them from the files. The addicional resourse are:
+  >> "PrintTable" library to easier way for data visualization.
+  >> "Operator" library to Sort command
+  >> "Copy" libraty to create a free list
+  
+ In the project has addicional notes to clarify steps that I used for.
+    
+
