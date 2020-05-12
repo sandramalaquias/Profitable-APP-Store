@@ -22,15 +22,19 @@ To avoid spending resources on collecting new data ourselves, I should first try
 * A **data set** containing data about approximately 10,000 Android apps from Google Play; the data was collected in August 2018. You can download the data set directly from this [link](https://www.kaggle.com/lava18/google-play-store-apps).
 * A **data set** containing data about approximately 7,000 iOS apps from the App Store; the data was collected in July 2017. You can download the data set directly from this [link](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps).
 
-Note that for this exercise I'm using only a Python command and has addcional notes clarifying the steps used and why. It is  divided in two pars:
-  * clean the datas set and write a new one
+The main challenge for this exercise is to work with a "Codecs" and "RE" libraries to identify Asia characteres at APP name in both files: App Store and Google Play.
+
+Note that in this project I'm using only a Python command and has addcional notes clarifying the steps used and why. It is  divided in two pars:
+  * clean the datas set 
   * analyse and get the insights
   
 ## Clean the Data
-The main challenge for this exercise is to work with a "Codecs" and "RE" libraries to identify Asia characteres and drop them from the files. The addicional resourse are:
+ The addicional resourse are:
   * "PrintTable" library to easier way for data visualization.
   * "Operator" library to Sort command
   * "Copy" libraty to create a free list
+  
+  The goal is create a datas set cleam an ready to be analysed.
   
  ## Analyse Data
  To minimize risks and overhead, our validation strategy for an app idea is comprised of three steps:
@@ -48,5 +52,10 @@ In this part of project have many observation until arrive a conclusion, as foll
 In this project, we analyzed data about the App Store and Google Play mobile apps with the goal of recommending an app profile that can be profitable for both markets.
 
 We concluded that taking a popular book (perhaps a more recent book) and turning it into an app could be profitable for both the Google Play and the App Store markets. The markets are already full of libraries, so we need to add some special features besides the raw version of the book. This might include daily quotes from the book, an audio version of the book, quizzes on the book, a forum where people can discuss the book, etc.
+
+## Note
+In the DATAQUEST exercise,the files provided are clean an ready to be analysed. I'm upload the files directy of the site and this project has addicional steps regarding cleanning that is not in. 
+
+I'm followin the main idea and the steps to make this project regarding described in the guided project. 
 
 
