@@ -1,9 +1,9 @@
 # Profitable-APP-Store
 Profitable App Profiles for the App Store and Google Play Markets
 
-# Project 1 - DataQuest - Introduction to Python
+## Project 1 - DataQuest - Introduction to Python
 
-## Cleanning Data
+### Cleanning Data
 
 For this project, I'm going to work as data analysts for a company that builds Android and iOS mobile apps. 
 
@@ -28,7 +28,7 @@ Note that in this project I'm using only a Python command and has addcional note
   * clean the datas set 
   * analyse and get the insights
   
-## Clean the Data
+### Clean the Data
  The addicional resourse are:
   * "PrintTable" library to easier way for data visualization.
   * "Operator" library to Sort command
@@ -36,7 +36,7 @@ Note that in this project I'm using only a Python command and has addcional note
   
   The goal is create a datas set cleam an ready to be analysed.
   
- ## Analyse Data
+ ### Analyse Data
  To minimize risks and overhead, our validation strategy for an app idea is comprised of three steps:
 
     Build a minimal Android version of the app, and add it to Google Play.
@@ -47,7 +47,7 @@ Because our end goal is to add the app on both Google Play and the App Store, we
 
 In this part of project have many observation until arrive a conclusion, as follow.
 
-## Conclusions
+### Conclusions
 
 In this project, we analyzed data about the App Store and Google Play mobile apps with the goal of recommending an app profile that can be profitable for both markets.
 
