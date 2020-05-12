@@ -13,7 +13,7 @@ For this project, I'm going to work as data analysts for a company that builds A
 The goal is to analyze data to help our developers understand what type of apps are likely to attract more users.
 To do this, I'll need to collect and analyze data about mobile apps available on Google Play and the App Store.
 
-Collecting data for over 4 million apps requires a significant amount of time and money, 
+Collecting data for over 4 million apps requires a significant amount of time and money.
 
 > Number of apps available in leading app stores as of 3rd quarter 2019  ([Link](https://www.statista.com/statistics/276623/number-of-apps-available-in-leading-app-stores/))
 
