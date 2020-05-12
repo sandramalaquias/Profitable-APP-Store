@@ -56,6 +56,6 @@ We concluded that taking a popular book (perhaps a more recent book) and turning
 ## Note
 In the DATAQUEST exercise,the files provided are clean an ready to be analysed. I'm upload the files directy of the site and this project has addicional steps regarding cleanning that is not in. 
 
-I'm followin the main idea and the steps to make this project regarding described in the guided project. 
+I followed the main idea and the steps described in the guided project to get the same results and conclusion.
 
 
