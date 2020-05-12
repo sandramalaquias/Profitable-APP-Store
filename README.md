@@ -1,9 +1,6 @@
 # Profitable-APP-Store
 Profitable App Profiles for the App Store and Google Play Markets
 
-https://drive.google.com/open?id=179yrFn05aOnduxekMy7UbH33whPDdRxp
-
-
 # Project 1 - DataQuest - Introduction to Python
 
 ## Cleanning Data
